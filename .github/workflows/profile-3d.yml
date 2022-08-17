@@ -11,9 +11,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+         
 
           # Options
           user: r-iskey
