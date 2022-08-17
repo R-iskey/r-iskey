@@ -21,7 +21,8 @@ jobs:
           base: header, activity
           base_indepth: yes
           base_hireable: yes
-          plugin_lines: yes
+          plugin_lines: true
+          plugin_lines_sections: repositories, history
           config_timezone: Asia/Yerevan
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -30,4 +31,4 @@ jobs:
           plugin_languages_details: percentage
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 3049626
-          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_limit: 1
