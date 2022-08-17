@@ -9,3 +9,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-iskey&hide=phpa&layout=compact&theme=github_dark)](https://github.com/r-iskey/github-readme-stats)
 
+![Metrics](/github-metrics.svg)
+
