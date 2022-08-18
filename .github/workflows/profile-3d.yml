@@ -16,7 +16,10 @@ jobs:
           # Options
           user: r-iskey
           template: classic
-          config_order: languages, isocalendar, lines, stackoverflow
+          base: header
+          extras_js: |
+            document.querySelectorAll("h1")?.forEach(h1 => h1.remove())
+          config_order: base.header, languages, isocalendar, lines, stackoverflow
           base_indepth: yes
           plugin_lines: true
           plugin_lines_sections: repositories
