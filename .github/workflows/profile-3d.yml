@@ -12,14 +12,17 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-         
 
           # Options
           user: r-iskey
           template: classic
           base: header, activity
+          extras_css: |
+            h1 {
+              display: none;
+            }
+          config_order: base.header, languages, isocalendar, lines, stackoverflow
           base_indepth: yes
-          base_hireable: yes
           plugin_lines: true
           plugin_lines_sections: repositories
           config_timezone: Asia/Yerevan
