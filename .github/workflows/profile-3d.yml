@@ -16,7 +16,7 @@ jobs:
           # Options
           user: r-iskey
           template: classic
-          config_order: base.header, base.activity, languages, isocalendar, lines, stackoverflow
+          config_order: languages, isocalendar, lines, stackoverflow
           base_indepth: yes
           plugin_lines: true
           plugin_lines_sections: repositories
