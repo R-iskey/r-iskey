@@ -16,9 +16,6 @@ jobs:
           # Options
           user: r-iskey
           template: classic
-          base: header, activity
-          extras_js: |
-            document.querySelectorAll("h1")?.forEach(h1 => h1.remove())
           config_order: base.header, base.activity, languages, isocalendar, lines, stackoverflow
           base_indepth: yes
           plugin_lines: true
