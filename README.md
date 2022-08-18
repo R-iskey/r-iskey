@@ -5,35 +5,13 @@
 [![Soundcloud Badge](https://img.shields.io/badge/-@egg__sound-ff7500?style=flat&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/egg_sound)](https://soundcloud.com/egg_sound)
 
 #### 💻 Frontend technologies
-<img src="./images/typescript.svg" alt="typescript" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/angular.svg" alt="angular" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/rxjs.svg" alt="rxjs" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/react.svg" alt="react"  style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/redux.svg" alt="redux" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/mui.svg" alt="mui" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/graphql.svg" alt="graphql" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/antdesign.svg" alt="antdesign" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/vue.svg" alt="vue" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/tailwindcss.svg" alt="tailwindcss" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/mst.svg" alt="mst" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/mobx.svg" alt="mobx" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/web3.svg" alt="web3" style="margin-right: 5px;width: 30px;display: inline-block;"/>
+<img src="./images/typescript.svg" alt="typescript" width="30p" style="margin-right: 5px;"/><img src="./images/angular.svg" alt="angular" width="30p" style="margin-right: 5px;"/><img src="./images/rxjs.svg" alt="rxjs" width="30p" style="margin-right: 5px;"/><img src="./images/react.svg" alt="react"  width="30p" style="margin-right: 5px;"/><img src="./images/redux.svg" alt="redux" width="30p" style="margin-right: 5px;"/><img src="./images/mui.svg" alt="mui" width="30p" style="margin-right: 5px;"/><img src="./images/graphql.svg" alt="graphql" width="30p" style="margin-right: 5px;"/><img src="./images/antdesign.svg" alt="antdesign" width="30p" style="margin-right: 5px;"/><img src="./images/vue.svg" alt="vue" width="30p" style="margin-right: 5px;"/><img src="./images/tailwindcss.svg" alt="tailwindcss" width="30p" style="margin-right: 5px;"/><img src="./images/mst.svg" alt="mst" width="30p" style="margin-right: 5px;"/><img src="./images/mobx.svg" alt="mobx" width="30p" style="margin-right: 5px;"/><img src="./images/web3.svg" alt="web3" width="30p" style="margin-right: 5px;"/>
 
 #### ⚙️ Backend technologies
-<img src="./images/nodejs.svg" alt="nodejs" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/next.svg" alt="next.js" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/express.svg" alt="express" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/nest.svg" alt="nestjs" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/mongo.svg" alt="mongo" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/sql.svg" alt="sql" style="margin-right: 5px;width: 30px;display: inline-block;"/>
+<img src="./images/nodejs.svg" alt="nodejs" width="30p" style="margin-right: 5px;"/><img src="./images/next.svg" alt="next.js" width="30p" style="margin-right: 5px;"/><img src="./images/express.svg" alt="express" width="30p" style="margin-right: 5px;"/><img src="./images/nest.svg" alt="nestjs" width="30p" style="margin-right: 5px;"/><img src="./images/mongo.svg" alt="mongo" width="30p" style="margin-right: 5px;"/><img src="./images/sql.svg" alt="sql" width="30p" style="margin-right: 5px;"/>
 
 #### 🛠 Other technologies
-<img src="./images/solidity.svg" alt="solidity" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/webpack.svg" alt="webpack" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/vite.svg" alt="vite" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/jest.svg" alt="jest" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/bash.svg" alt="bash" style="margin-right: 5px;width: 30px;display: inline-block;"/>
-<img src="./images/puppeteer.svg" alt="puppeteer" style="margin-right: 5px;width: 30px;display: inline-block;"/>
+<img src="./images/solidity.svg" alt="solidity" width="30p" style="margin-right: 5px;"/><img src="./images/webpack.svg" alt="webpack" width="30p" style="margin-right: 5px;"/><img src="./images/vite.svg" alt="vite" width="30p" style="margin-right: 5px;"/><img src="./images/jest.svg" alt="jest" width="30p" style="margin-right: 5px;"/><img src="./images/bash.svg" alt="bash" width="30p" style="margin-right: 5px;"/><img src="./images/puppeteer.svg" alt="puppeteer" width="30p" style="margin-right: 5px;"/>
 
 <hr />
 
