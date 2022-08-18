@@ -21,7 +21,7 @@ jobs:
           base_indepth: yes
           base_hireable: yes
           plugin_lines: true
-          plugin_lines_sections: repositories, history
+          plugin_lines_sections: repositories
           config_timezone: Asia/Yerevan
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
