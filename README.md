@@ -32,6 +32,6 @@
 
 <hr />
 
-#### <img src="./images/github.svg" width="20" alt="github" style="display: inline-block; vertical-align: middle"/> Github Activity
+#### <img src="./images/github.svg" width="20" alt="github" style="display: inline-block; vertical-align: middle"/> Activity Feed
 
 ![Metrics](./github-metrics.svg)
